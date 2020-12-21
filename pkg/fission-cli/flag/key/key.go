@@ -46,6 +46,7 @@ const (
 	FnEnvironmentName       = "env"
 	FnPackageName           = "pkgname"
 	FnImageName             = "image"
+	FnPort                  = "port"
 	FnEntrypoint            = "entrypoint"
 	FnBuildCmd              = "buildcmd"
 	FnSecret                = "secret"
